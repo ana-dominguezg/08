@@ -1,22 +1,7 @@
+
 h1 {
   color: rebeccapurple;
   font-size: 100px;
   text-align: center;
-  background-color: slategray;
-}
-h3 {
-  color: green;
-  font: size 20px;
-  text-align: center;
-  background-color: darkkhaki;
-}
-
-#d1 {
-  color: blue;
-  text-align: center;
-}
-
-#d2 {
-  color: green;
-  text-align: right;
-}
+  text-shadow: 2px 2px black;
+  
